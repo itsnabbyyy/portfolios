@@ -1,7 +1,7 @@
 # Waze User Churn Prediction 
 ## Project Overview
 This project is based on a scenario from the Google Advanced Data Analytics Professional Certificate. The goal is to develop a machine learning model to predict user churn for Waze, a popular navigation app.
-By identifying factors contributing to user churn, Waze aims to improve user retention and grow its business. This project aims to demonstrates my skills in project planning, data analysis, machine learning, and business communication within the context of a real-world scenario.
+By identifying factors contributing to user churn, Waze aims to improve user retention and grow its business. In addition, this project aims to demonstrates my skills in project planning, data analysis, machine learning, and business communication within the context of a real-world scenario.
 
 ## Objectives
 - Analyze user data to understand churn patterns
