@@ -18,3 +18,8 @@ By identifying factors contributing to user churn, Waze aims to improve user ret
 ## Tools 
 - Python for data analysis and machine learning
 - Hypothesis testing for establishing relationships between key variables
+
+## Expected Outcomes
+- Insights into user churn patterns
+- A reliable machine learning model for predicting user churn
+- Actionable recommendations for improving user retention
