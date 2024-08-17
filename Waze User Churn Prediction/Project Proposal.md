@@ -6,7 +6,7 @@ Waze leadership has asked the data team to build a machine learning model to pre
 
 ---
 
-| Milestone | Tasks | Deliverables/Reports | Relevant Stakeholder (Optional Activity) |
+| Milestone | Tasks | Deliverables/Reports | Relevant Stakeholder|
 | :---: | ----- | ----- | ----- |
 | **1** | **Establish structure for project workflow \[PACE\] Plan** | Global-level project document | May Santner — Data Analysis Manager |
 | **1a** | **Write a project proposal Plan** |  | Sylvester Esperanza — Senior Project Manager   |
