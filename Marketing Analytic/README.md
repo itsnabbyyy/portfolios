@@ -1,7 +1,7 @@
 # Marketing Analytic for ShopEasy
 
 ## Project Overview
-This project showcases a comprehensive marketing analytics solution for ShopEasy, a fictional online retail business. ShopEasy is facing challenges with reduced customer engagement and conversion rates, despite significant investments in new online marketing campaigns. This project aims to conduct a detailed analysis and identify areas for improvement in their marketing strategies.
+This project showcases a comprehensive marketing analytics solution for ShopEasy, an online retail business. ShopEasy is facing challenges with reduced customer engagement and conversion rates, despite significant investments in new online marketing campaigns. This project aims to conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
 ### Key Challenges:
 
