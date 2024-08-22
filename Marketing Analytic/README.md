@@ -37,9 +37,9 @@ This project showcases a comprehensive marketing analytics solution for ShopEasy
 
 ### Tools 
 
-SQL: Data extraction and cleaning
-Python: Sentiment analysis
-Power BI: Interactive dashboard creation
+- SQL: Data extraction and cleaning
+- Python: Sentiment analysis
+- Power BI: Interactive dashboard creation
 
 ### Project Outcome
 This project demonstrates the application of data analysis and visualization skills to solve real-world business problems. The interactive dashboard provides ShopEasy with valuable insights to improve their marketing strategies, increase customer engagement, and boost conversion rates.
