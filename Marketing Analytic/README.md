@@ -8,14 +8,10 @@ ShopEasy is facing challenges with reduced customer engagement and conversion ra
 
 ### Key Challenges:
 
-Reduced customer engagement
-- The number of customer interactions and engagement with the site and marketing content has declined
-Decreased conversion rates
-- Fewer site visitors are converting into paying customers
-High marketing expenses with low returns
-- Significant investments in marketing campaigns are not yielding expected returns
-Need for in-depth customer feedback analysis
-- Understanding customer opinions about products and services is crucial for improving engagement and conversions
+- Reduced customer engagement: The number of customer interactions and engagement with the site and marketing content has declined
+- Decreased conversion rates: Fewer site visitors are converting into paying customers
+- High marketing expenses with low returns: Significant investments in marketing campaigns are not yielding expected returns
+- Need for in-depth customer feedback analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions
 
 ### Project Objectives
 - Extract and clean marketing data using SQL
@@ -31,19 +27,16 @@ Need for in-depth customer feedback analysis
 
 ### Project Goals and Insights
 1. Increase Conversion Rates
-
-Goal: Identify factors impacting the conversion rate and provide recommendations for improvement </n>
-Insight: Highlight key stages where visitors drop off and suggest optimizations for the conversion funnel
+- Goal: Identify factors impacting the conversion rate and provide recommendations for improvement </n>
+- Insight: Highlight key stages where visitors drop off and suggest optimizations for the conversion funnel
 
 2. Enhance Customer Engagement
+- Goal: Determine which types of content drive the highest engagement
+- Insight: Analyze interaction levels with different types of marketing content to inform better content strategies
 
-Goal: Determine which types of content drive the highest engagement </n>
-Insight: Analyze interaction levels with different types of marketing content to inform better content strategies
-
-3. Improve Customer Feedback Scores
-
-Goal: Understand common themes in customer reviews and provide actionable insights</n>
-Insight: Identify recurring positive and negative feedback to guide product and service improvements
+4. Improve Customer Feedback Scores
+- Goal: Understand common themes in customer reviews and provide actionable insights</n>
+- Insight: Identify recurring positive and negative feedback to guide product and service improvements
 
 ### Tools and Technologies Used
 
@@ -54,4 +47,4 @@ Power BI: Interactive dashboard creation
 ### Project Outcome
 This project demonstrates the application of data analysis and visualization skills to solve real-world business problems. The interactive dashboard provides ShopEasy with valuable insights to improve their marketing strategies, increase customer engagement, and boost conversion rates.
 
-*Note: This project is a guided learning experience created by Ali Ahmad, designed to simulate real-life business scenarios and showcase data analysis skills.
+*Note: This project is a guided learning experience created by Ali Ahmad, designed to simulate real-life business scenarios and showcase data analysis skills.*
