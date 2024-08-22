@@ -31,7 +31,7 @@ This project showcases a comprehensive marketing analytics solution for ShopEasy
 - Goal: Determine which types of content drive the highest engagement
 - Insight: Analyze interaction levels with different types of marketing content to inform better content strategies
 
-4. Improve Customer Feedback Scores
+3. Improve Customer Feedback Scores
 - Goal: Understand common themes in customer reviews and provide actionable insights</n>
 - Insight: Identify recurring positive and negative feedback to guide product and service improvements
 
