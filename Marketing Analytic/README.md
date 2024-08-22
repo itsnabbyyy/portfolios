@@ -1,10 +1,7 @@
 # ShopEasy Marketing Analytic Dashboard
 
 ## Project Overview
-This project showcases a comprehensive marketing analytics solution for ShopEasy, a fictional online retail business. The project demonstrates skills in SQL data extraction and cleaning, Python-based sentiment analysis, and interactive dashboard creation using Power BI.
-
-### Business Case
-ShopEasy is facing challenges with reduced customer engagement and conversion rates, despite significant investments in new online marketing campaigns. This project aims to conduct a detailed analysis and identify areas for improvement in their marketing strategies.
+This project showcases a comprehensive marketing analytics solution for ShopEasy, a fictional online retail business. ShopEasy is facing challenges with reduced customer engagement and conversion rates, despite significant investments in new online marketing campaigns. This project aims to conduct a detailed analysis and identify areas for improvement in their marketing strategies.The project demonstrates skills in SQL data extraction and cleaning, Python-based sentiment analysis, and interactive dashboard creation using Power BI.
 
 ### Key Challenges:
 
@@ -13,7 +10,7 @@ ShopEasy is facing challenges with reduced customer engagement and conversion ra
 - High marketing expenses with low returns: Significant investments in marketing campaigns are not yielding expected returns
 - Need for in-depth customer feedback analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions
 
-### Project Objectives
+### Objectives
 - Extract and clean marketing data using SQL
 - Enrich marketing analytics through sentiment analysis using Python
 - Build an interactive marketing dashboard in Power BI
@@ -38,7 +35,7 @@ ShopEasy is facing challenges with reduced customer engagement and conversion ra
 - Goal: Understand common themes in customer reviews and provide actionable insights</n>
 - Insight: Identify recurring positive and negative feedback to guide product and service improvements
 
-### Tools and Technologies Used
+### Tools 
 
 SQL: Data extraction and cleaning
 Python: Sentiment analysis
